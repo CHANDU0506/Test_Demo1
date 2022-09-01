@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: CHANDU0506/Test_Demo1
 spec:
   type: service
-  owner: user:guest
+  owner: backstage/maintainers
   lifecycle: experimental
