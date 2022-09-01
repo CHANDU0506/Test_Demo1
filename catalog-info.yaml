@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "Test_Demo1"
+  annotations:
+    backstage.io/managed-by-location: url:https://github.com/CHANDU0506/Test_Demo1/blob/master/catalog-info.yaml
 spec:
   type: service
   owner: user:guest
