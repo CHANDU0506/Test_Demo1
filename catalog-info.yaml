@@ -4,6 +4,8 @@ metadata:
   name: "Test_Demo1"
   annotations:
     github.com/project-slug: CHANDU0506/Test_Demo1
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
 spec:
   type: service
   owner: guests
